@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I am Very Naughty**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smohammedkaif" alt="smohammedkaif" /></a> </p>
 
-
+<h3>The Full-Stack Java Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
