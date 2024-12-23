@@ -1,19 +1,19 @@
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](
 <h1 align="center">Hi 👋, I'm S Mohammed Kaif</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smohammedkaif&label=Profile%20views&color=0e75b6&style=flat" alt="smohammedkaif" /> </p>
 
-- 🌱 I’m currently learning **Java Full Stack Developer/React-JS**
+- 🌱 I’m currently working as **Data Analyst Developer/React-JS**
 
-- 💬 Ask me about **Web Technology, JDBC, Hibernate, Servlet**
+- 💬 Ask me about **Data, Insights, Trends, Dashboard, Reports**
 
 - 📫 How to reach me **mohammedkaifgtl@gmail.com**
 
 - ⚡ Fun fact **I am Very Naughty**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smohammedkaif" alt="smohammedkaif" /></a> </p>
 
-<h3>The Full-Stack Java Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.</h3>
+<h3>I am Mohammed Kaif, a passionate Data Analyst with over 2 years of experience transforming raw data into actionable insights. Proficient in tools like SQL, Tableau, Power BI, and Excel, I specialize in data visualization, modeling, and storytelling. My work in the healthcare and banking sectors has driven operational efficiency and informed strategic decisions. With a keen eye for detail and a commitment to continuous learning, I aim to leverage data to solve complex problems and deliver measurable business value. Let's connect and build data-driven solutions together!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
